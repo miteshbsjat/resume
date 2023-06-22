@@ -41,7 +41,7 @@ Stealth Startup. Co-Founder (Lx). Mar 2023 - Present
     * Contributor to Open Source by creating several useful tools and libraries.
     * Training clients on BigData, Cloud, Distributed and Scalable Architecture.
     * Working on our internal product.
-CRED. Systems Architect (L7). Aug 2020 - Feb 2023
+CRED. Systems Architect/Manager (L7). Aug 2020 - Feb 2023
     * Define Strategies and Roadmap inline with all product BUs to ensure 99.9% availability of CRED’s microservices.
     * Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and CI/CD as a Service (CaaS) offering.
     * Products & Platforms Architecture Reviews for DR planning & execution.
