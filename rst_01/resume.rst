@@ -30,7 +30,7 @@ skills
 *   MySQL,    PostgreSQL,    Oracle,    MongoDB,    ElasticSearch,    Redis,    Etcd,    InfluxDB,  
 *   Hadoop,    Pig,    Hive,    Map Reduce,    Warehouse,    Kafka,    AI/ML,    Airflow,  
 *   Linux,    Ansible,    Chef,    Jenkins,    Docker,    Kubernetes,    Istio,    Prometheus,    AWS,    Azure,    GCP,    Terraform,  
-*   Agile,    RCA,    Hiring,    Mentoring,    Process Automation,    Product Development,  
+*   Agile,    SDLC,    Hiring,    Mentoring,    Process Automation,    Product Development,  
 
 --------------
 employment
@@ -39,7 +39,7 @@ employment
 Stealth Startup. Co-Founder (Lx). Mar 2023 - Present
     * Consulting Clients on Cloud onboarding, migration from monolith to microservices.
     * Contributor to Open Source by creating several useful tools and libraries.
-    * Training clients on BigData, Cloud, Distributed and Scalable Architecture.
+    * Training clients on BigData, Cloud, Distributed and Scalable Architecture, IoT.
     * Working on Medical Project with AI/ML using ChatGPT
 CRED. Systems Architect/Manager (L7). Aug 2020 - Feb 2023
     * Define Strategies and Roadmap inline with all product BUs to ensure 99.9% availability of CRED’s microservices.
@@ -97,6 +97,7 @@ Rungta College of Engineering and Technology. Bhilai, India. Aug 1999 - Jun 2003
 ---------------
 certs
 ---------------
+* Leading Teams: Developing as a Leader at University of Illinois
 * Corporate Entrepreneurship at Amity University
 * Transformation with Google Cloud at Coursera
 * BigData on AWS at AWS
