@@ -36,11 +36,16 @@ skills
 employment
 --------------
 
+Arcesium. Principal Engineer (Core Infra Architect) (L6). Sep 2023 - Present
+    * Designing, implementing, and maintaining Linux-based infrastructure solutions, including server architectures, networking configurations, and storage systems.
+    * Optimizing system performance and scalability by fine-tuning kernel parameters, configuring resource management tools, and implementing load balancing strategies.
+    * Ensuring the security and compliance of Linux systems by implementing access controls, encryption mechanisms, intrusion detection systems, and regular security audits.
+    * Developing automation scripts and orchestrating workflows using tools like Ansible, Terraform, GitLab CI/CD and Kubernetes to streamline system provisioning, configuration management, and deployment processes.
 Stealth Startup. Co-Founder (Lx). Mar 2023 - Present
     * Consulting Clients on Cloud onboarding, migration from monolith to microservices.
     * Contributor to Open Source by creating several useful tools and libraries.
     * Training clients on BigData, Cloud, Distributed and Scalable Architecture, IoT.
-    * Working on Medical Project with AI/ML using ChatGPT.
+    * Architected Scalable Question Answering with LLM and RAG
 CRED. Systems Architect/Manager (L7). Aug 2020 - Feb 2023
     * Define Strategies and Roadmap inline with all product BUs to ensure 99.9% availability of CRED’s 500+ microservices, which are able to handle 10+ million RPM, and scale automatically to handle load increase by 15x.
     * Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and CI/CD as a Service (CaaS) offering, which can easily scaled to handle 1000+ deployments per day.
@@ -97,12 +102,13 @@ Rungta College of Engineering and Technology. Bhilai, India. Aug 1999 - Jun 2003
 ---------------
 certs
 ---------------
+* Business Metrics for Data-Driven Companies at Duke University
 * Leading Teams: Developing as a Leader at University of Illinois
 * Corporate Entrepreneurship at Amity University
 * Transformation with Google Cloud at Coursera
 * BigData on AWS at AWS
-* Kubernetes Mastery at Udemy
-* Artificial Intelligence (AI) for Managers at Udemy
+* CKA: Certified Kubernetes Exam Prep at Whizlabs
+* Python for Data Science, AI and Development at IBM
 
 ---------------
 awards
