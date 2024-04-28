@@ -37,10 +37,9 @@ employment
 --------------
 
 Arcesium. Principal Engineer (Core Infra Architect) (L6). Sep 2023 - Present
-    * Designing, implementing, and maintaining Linux-based infrastructure solutions, including server architectures, networking configurations, and storage systems.
-    * Optimizing system performance and scalability by fine-tuning kernel parameters, configuring resource management tools, and implementing load balancing strategies.
+    * Infrastructure Cost Reduction by 210% by Designing, implementing, and maintaining Linux-based infrastructure solutions, including server architectures, networking configurations, and storage systems.
     * Ensuring the security and compliance of Linux systems by implementing access controls, encryption mechanisms, intrusion detection systems, and regular security audits.
-    * Developing automation scripts and orchestrating workflows using tools like Ansible, Terraform, GitLab CI/CD and Kubernetes to streamline system provisioning, configuration management, and deployment processes.
+    * Developing automation scripts and orchestrating workflows using tools like Ansible, Terraform, GitLab CI/CD and Kubernetes to streamline system pr5ovisioning, configuration management, and deployment processes, leading to Organization-wide Developer Productivity improved by 3x.
 Stealth Startup. Co-Founder (Lx). Mar 2023 - Present
     * Consulting Clients on Cloud onboarding, migration from monolith to microservices.
     * Contributor to Open Source by creating several useful tools and libraries.
@@ -50,9 +49,8 @@ CRED. Systems Architect/Manager (L7). Aug 2020 - Feb 2023
     * Define Strategies and Roadmap inline with all product BUs to ensure 99.9% availability of CRED’s 500+ microservices, which are able to handle 10+ million RPM, and scale automatically to handle load increase by 15x.
     * Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and CI/CD as a Service (CaaS) offering, which can easily scaled to handle 1000+ deployments per day.
     * Products & Platforms Architecture Reviews for DR planning & execution.
-    * Envisioned Centralized Observability platform across CRED.
     * Define SLA's, SLOs, SLIs and Error Budgets across all products and platforms.
-    * Automated Centralized FinOps (Cost Engineering) Platform for Cloud cost optimization, visualization and management
+    * Automated Centralized FinOps (Cost Engineering) Platform for Cloud cost optimization, visualization and management with Cost Reduction to 150%
     * Strategize Data Mining, Warehousing, Distribution & Governance across the organization.
     * Promoted the methodology of automated processes and self-service.
     * Hiring & Retaining Performing Teams, Excellent talent Stakeholder, to formulate Supplier and High Vendor Management.
@@ -65,7 +63,7 @@ CRED. Systems Engineer (L5). Jul 2018 - Sep 2019
     * Gathered requirements from backend teams to create the CI/CD and Infrastructure (IaC) platform for microservices.
     * Due to this serverless and stateless CI/CD and IaC, we had achieved very quick Time-To-Market in 1 month.
     * This platform had helped in democratization of microservice deployment and monitoring, i.e. reduces friction between Dev (Developer) and Ops (Operations/SRE) Teams 200+ microservices.
-    * Hence, helped us in maintaining lean SRE team.
+    * Leading to maintaining lean SRE team.
 Ola. Principal Engineer (L4). Jun 2017 - Jul 2018
     * Envisioned and Created Egress Traffic Plaform to capture, analyse, and control egress traffic from Network.
     * Instrumental in creation of Multi-cloud Infrastructure As Code Deployment Platform for migration from AWS to Azure.
@@ -109,6 +107,7 @@ certs
 * BigData on AWS at AWS
 * CKA: Certified Kubernetes Exam Prep at Whizlabs
 * Python for Data Science, AI and Development at IBM
+* Leadership Skills at IIM Ahmedabad
 
 ---------------
 awards
